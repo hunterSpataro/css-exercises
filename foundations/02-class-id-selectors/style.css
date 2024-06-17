@@ -1,0 +1,21 @@
+.odd{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    background-color: rgba(250, 29, 29, 0.4);
+}
+#no2{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: blue;
+}
+#no4{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    background-color: hsla(120, 100%, 50%, 0.6);
+}
+#no3{
+    font-size: larger;
+}
